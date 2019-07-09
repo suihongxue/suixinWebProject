@@ -41,3 +41,6 @@ public class Myservlet implements Servlet {
 	}
 
 }
+public static void main(String[] args) {
+		System.out.println("change");
+	}
